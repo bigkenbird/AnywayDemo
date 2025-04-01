@@ -28,15 +28,15 @@ public class SharedBean {
 
 
         prize1.setName("a");
-        prize1.setQuantity(10);
+        prize1.setQuantity(5);
         prize1.setProbability(0.5);
 
         prize2.setName("b");
-        prize2.setQuantity(10);
+        prize2.setQuantity(5);
         prize2.setProbability(0.2);
 
         prize3.setName("c");
-        prize3.setQuantity(10);
+        prize3.setQuantity(5);
         prize3.setProbability(0.1);
 
         noPrizeTest.setName("鳴謝惠顧");
